@@ -11,3 +11,18 @@ https://vincentntang.com
 and the demo to see it in action
 
 https://react-session-timeout-example.netlify.app/
+
+## Installation notes
+
+Pull the repo or fork it
+
+Then run
+
+```
+npm install
+npm run start
+```
+
+check out `localhost:3000` and it should be running there
+
+wait 5 seconds and don't movee the mouse to see the timeoutmodal
