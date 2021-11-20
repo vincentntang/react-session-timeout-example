@@ -15,6 +15,7 @@ function App() {
         </ul>
         <p>P.S. If you move your mouse, type, etc before then the timer will reset</p>
         <p>P.S. Whe the modal is open, the reset timer functionality will not be triggered</p>
+        <a href="https://github.com/vincentntang/react-session-timeout-example">GITHUB REPO</a>
       </div>
       <TimeoutLogic/>
     </div>
