@@ -13,6 +13,8 @@ function App() {
           <li>Logout, it will do same as above</li>
           <li>Continue the session, it will reset timer</li>
         </ul>
+        <p>P.S. If you move your mouse, type, etc before then the timer will reset</p>
+        <p>P.S. Whe the modal is open, the reset timer functionality will not be triggered</p>
       </div>
       <TimeoutLogic/>
     </div>
