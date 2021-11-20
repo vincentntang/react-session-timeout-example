@@ -6,7 +6,7 @@ This is a demo showcasing how to create a session-timeout modal in React for log
 
 Please see the blog post on how this works
 
-https://vincentntang.com
+https://vincentntang.com/session-timeout-modals-react
 
 and the demo to see it in action
 
