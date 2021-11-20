@@ -11,7 +11,7 @@ export const TimeoutLogic = () => {
     },5000)
 
     const createTimeout2 = () => setTimeout(() => {
-      // Implement a sign out function here, or a redirect to a SSO server
+      // Implement a sign out function here
       window.location.href = 'https://vincentntang.com'
     },10000)
 
