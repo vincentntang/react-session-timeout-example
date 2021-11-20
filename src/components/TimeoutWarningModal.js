@@ -19,7 +19,6 @@ const customStyles = {
 // Make sure to bind modal to your appElement (https://reactcommunity.org/react-modal/accessibility/)
 
 export const TimeoutWarningModal = ({isOpen, onRequestClose}) => {  
-
   const onLogOffCall = () => {
     // Implement your logout functionality here, e.g. clear the users login cache or hit your signout server
     window.location.href = "https://vincentntang.com"
@@ -29,8 +28,6 @@ export const TimeoutWarningModal = ({isOpen, onRequestClose}) => {
     <div> 
       <Modal
         isOpen={isOpen}
-        // onAfterOpen={afterOpenModal}
-        // onRequestClose={onRequestClose}
         style={customStyles}
         contentLabel="Example Modal"
       >
