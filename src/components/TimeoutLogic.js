@@ -7,7 +7,6 @@ export const TimeoutLogic = () => {
   useEffect(() => {
     const createTimeout1 = () => setTimeout(()=>{ 
       setWarningModalOpen(true);
-      console.log("I executed!")
     },5000)
 
     const createTimeout2 = () => setTimeout(() => {
