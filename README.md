@@ -7,3 +7,5 @@ Please see the blog post on how this works
 https://vincentntang.com
 
 and the demo to see it in action
+
+https://react-session-timeout-example.netlify.app/
